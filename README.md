@@ -1,22 +1,22 @@
-# 🐍 Python Internship Training — Algonex IT Solutions
+# Algonex Intern Management System
 
-**Role:** Python & AI Developer Intern
-**Duration:** May 2026 – July 2026
-**Mode:** Onsite | Bangalore
+A console-based intern record management application built using Python OOP principles during my internship at Algonex IT Solutions.
 
----
+## Features
+- Add, view, update, and delete intern records (Full CRUD)
+- Object-Oriented design using classes, objects, and encapsulation
+- Input validation and exception handling for robust execution
+- Clean modular code structure
 
-## 📌 About This Repository
+## Tech Stack
+Python 3 | OOP | VS Code | GitHub
 
-This repository contains all Python programming assignments, data structure exercises, and mini-projects completed during my internship at **Algonex IT Solutions**. The work covers core Python concepts applied through hands-on coding tasks, progressing from fundamentals to OOP-based application development.
+## Concepts Demonstrated
+- Classes and Objects
+- Encapsulation and Methods
+- Exception Handling
+- Data Management Logic
 
----
-
-## 📂 Files Overview
-
-| File | Concept Covered |
-|---|---|
-| `conditional.py` | If-else logic, nested conditions, control flow |
-| `funtions.py` | User-defined functions, parameters, return values, scope |
-| `string_operations.py` | String methods, slicing, formatting, manipulation |
-| `List_operations.py` |
+## Author
+**Mathangi Ramya Sree** — B.Tech CSE, MJR College of Engineering and Technology  
+[LinkedIn](https://linkedin.com/in/ramya-sree-mathangi) | [GitHub](https://github.com/mathangiramyasree8-crypto)
